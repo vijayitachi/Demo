@@ -5,6 +5,7 @@ public class Simple {
 	{
 		System.out.println("hello everyone ");
 		System.out.println("My name is vijayraj");
+		System.out.println("hi guys");
 	}
 
 }
