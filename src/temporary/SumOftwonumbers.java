@@ -6,7 +6,9 @@ public class SumOftwonumbers {
 		int a=sc.nextInt();
 		int b=sc.nextInt();
 		int c=(a+b);
+		int d=(a-b);
 		System.out.println("sum of  two numbers:"+c);
+		System.out.println("sub of two numbers"+d);
 	}
 
 }
